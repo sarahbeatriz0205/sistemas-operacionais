@@ -1,2 +1,1 @@
-# sistemas-operacionais
-Referente à disciplina de Sistemas Operacionais (3º período - TADS)
+[Organização no GitHub para a disciplina de Sistemas Operacionais](https://github.com/sistemas-operacionais)
