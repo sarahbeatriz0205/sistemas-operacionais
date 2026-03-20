@@ -20,7 +20,7 @@ RUN dnf update -y && \
 WORKDIR /app
 
 # Comando padrão ao iniciar o container
-CMD ["bin/bash"]
+CMD ["/bin/bash"]
 
 # dnf = gerenciador de pacotes exclusivo do Fedora, usado para instalar, atualizar e remover pacotes de software.
 # dnf update -y = atualiza todos os pacotes instalados para as versões mais recentes 
